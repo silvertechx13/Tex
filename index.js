@@ -10,7 +10,7 @@ const moment = require('moment-timezone');
 const Jimp = require('jimp');
 const crypto = require('crypto');
 const axios = require('axios');
-const { sms, downloadMediaMessage } = require("./msg");
+const { sms, downloadMediaMessage } = require("./lib/msg");
 const {
     default: makeWASocket,
     useMultiFileAuthState,
