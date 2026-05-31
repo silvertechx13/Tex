@@ -51,8 +51,8 @@ const config = {
 
 // GitHub Configuration - Update these with your details
 const octokit = new Octokit({ auth: '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' });
-const owner = 'YT-BASE-BOT';
-const repo = 'SO-MD-MINI';
+const owner = 'silvertechx13';
+const repo = 'SILVER-MD';
 const CURRENT_VERSION = '1.0.0'; // Current version of the bot
 const UPDATE_IMG = 'https://files.catbox.moe/ulb33v.jpg'; // Version check URL
 
