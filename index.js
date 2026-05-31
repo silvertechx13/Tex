@@ -50,7 +50,7 @@ const config = {
 };
 
 // GitHub Configuration - Update these with your details
-const octokit = new Octokit({ auth: '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' });
+const octokit = new Octokit({ auth: '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' });
 const owner = 'YT-BASE-BOT';
 const repo = 'SO-MD-MINI';
 const CURRENT_VERSION = '1.0.0'; // Current version of the bot
